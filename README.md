@@ -27,10 +27,3 @@ A modern livestock management web app built with Next.js, Tailwind CSS, and Supa
 - Node.js 18+ and npm
 - Supabase account
 
-### Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mutara-livestock.git
-   cd mutara-livestock
-
